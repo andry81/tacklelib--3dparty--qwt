@@ -1,0 +1,4 @@
+2020.05.20:
+* new: library at 6.1.4 release (2019.01.02) from https://svn.code.sf.net/p/qwt/code/tags/qwt-6.1.4 (https://sf.net/p/qwt/code/HEAD/tree/tags/qwt-6.1.4/ )
+* new: readme file
+* new: changelog file
